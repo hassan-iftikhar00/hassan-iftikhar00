@@ -1,13 +1,4 @@
-<!--
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║  Hassan Iftikhar - GitHub Profile README                       ║
-  ║  Repo: github.com/hassan-iftikhar00/hassan-iftikhar00          ║
-  ║                                                                ║
-  ║  SWAP-IN TODO (search for "TODO:"):                            ║
-  ║   • Replace project "Live" links with real deployed URLs       ║
-  ║   • Enable the snake animation (see bottom of this file)       ║
-  ╚═══════════════════════════════════════════════════════════════╝
--->
+
 
 <!-- ░░░ HEADER - animated waving banner ░░░ -->
 <a href="https://hassaniftikhar.vercel.app">
@@ -84,8 +75,6 @@ feeds **Gemini 2.5 Pro** for code synthesis + chat refinement.
 
 `Next.js 14` `TypeScript` `FastAPI` `YOLOv11` `Gemini 2.5 Pro` `Supabase`
 
-<!-- TODO: replace with live URL --> [`Live`](https://hassaniftikhar.vercel.app) · [`Code`](https://github.com/hassan-iftikhar00)
-
 </td>
 <td width="50%" valign="top">
 
@@ -96,8 +85,6 @@ idempotent webhooks**, serverless Playwright screenshots w/ SSRF protection,
 Redis rate limiting.
 
 `Next.js 16` `React 19` `Postgres RLS` `Upstash Redis` `Lemon Squeezy`
-
-<!-- TODO: replace with live URL --> [`Live`](https://hassaniftikhar.vercel.app) · [`Code`](https://github.com/hassan-iftikhar00)
 
 </td>
 </tr>
@@ -111,8 +98,6 @@ Production drag-and-drop IVR replacing a legacy call router. DTMF/NLP routing,
 
 `React 19` `ReactFlow` `SignalR` `C# ASP.NET Core` `SQL Server`
 
-<!-- TODO: replace with live URL --> [`Details`](https://hassaniftikhar.vercel.app)
-
 </td>
 <td width="50%" valign="top">
 
@@ -122,8 +107,6 @@ multi-election data isolation, **cryptographic vote receipts (PDF)**, real-time
 Chart.js dashboards, bulk CSV voter import, concurrent voter support.
 
 `React 18` `Node.js` `Express` `MongoDB` `JWT` `jsPDF`
-
-<!-- TODO: replace with live URL --> [`Live`](https://hassaniftikhar.vercel.app) · [`Code`](https://github.com/hassan-iftikhar00)
 
 </td>
 </tr>
@@ -136,8 +119,6 @@ payment gateway**, SMS credential delivery, Cloudinary storage, PDF generation,
 granular RBAC across 13 MongoDB models.
 
 `Next.js 15` `MongoDB` `Hubtel API` `Cloudinary` `pdf-lib`
-
-<!-- TODO: replace with live URL --> [`Live`](https://hassaniftikhar.vercel.app)
 
 </td>
 <td width="50%" valign="top">
