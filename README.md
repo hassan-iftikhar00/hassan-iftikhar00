@@ -158,7 +158,7 @@ validates Suricata IDS rules from CVE descriptions. 62 valid rules first-pass �
 <!-- ░░░ TROPHIES ░░░ -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hassan-iftikhar00&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/hassan-iftikhar00)
+<img src="https://github-readme-stats.vercel.app/api?username=hassan-iftikhar00&show_icons=true&theme=tokyonight" />
 
 </div>
 
