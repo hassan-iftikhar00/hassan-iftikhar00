@@ -172,7 +172,7 @@ validates Suricata IDS rules from CVE descriptions. 62 valid rules first-pass �
 <!-- ░░░ SNAKE - eats the contribution graph (needs the Action below) ░░░ -->
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/hassan-iftikhar00/hassan-iftikhar00/output/snake.svg)
+![snake](https://raw.githubusercontent.com/hassan-iftikhar00/hassan-iftikhar00/output/github-contribution-grid-snake.svg)
 
 </div>
 
