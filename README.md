@@ -75,6 +75,7 @@ feeds **Gemini 2.5 Pro** for code synthesis + chat refinement.
 
 `Next.js 14` `TypeScript` `FastAPI` `YOLOv11` `Gemini 2.5 Pro` `Supabase`
 
+
 </td>
 <td width="50%" valign="top">
 
@@ -85,6 +86,7 @@ idempotent webhooks**, serverless Playwright screenshots w/ SSRF protection,
 Redis rate limiting.
 
 `Next.js 16` `React 19` `Postgres RLS` `Upstash Redis` `Lemon Squeezy`
+
 
 </td>
 </tr>
@@ -108,6 +110,7 @@ Chart.js dashboards, bulk CSV voter import, concurrent voter support.
 
 `React 18` `Node.js` `Express` `MongoDB` `JWT` `jsPDF`
 
+
 </td>
 </tr>
 <tr>
@@ -119,6 +122,7 @@ payment gateway**, SMS credential delivery, Cloudinary storage, PDF generation,
 granular RBAC across 13 MongoDB models.
 
 `Next.js 15` `MongoDB` `Hubtel API` `Cloudinary` `pdf-lib`
+
 
 </td>
 <td width="50%" valign="top">
