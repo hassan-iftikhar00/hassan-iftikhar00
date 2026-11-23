@@ -2,7 +2,7 @@
 
 <!-- ░░░ HEADER - animated waving banner ░░░ -->
 <a href="https://hassaniftikhar.vercel.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6366F1,100:8B5CF6&height=200&section=header&text=Hassan%20Iftikhar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Founder%20%40%20Deventory&descSize=18&descAlignY=60&animation=fadeIn" alt="Hassan Iftikhar"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6366F1,100:8B5CF6&height=200&section=header&text=Hassan%20Iftikhar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Founder%20%40%20Rouj&descSize=18&descAlignY=60&animation=fadeIn" alt="Hassan Iftikhar"/>
 </a>
 
 <!-- ░░░ TYPING SVG - cycles through real roles ░░░ -->
@@ -27,7 +27,7 @@
 const hassan = {
   role:        "Full Stack Engineer",
   based:       "Lahore, Pakistan 🇵🇰",
-  founder:     "Deventory - custom software agency",
+  founder:     "Rouj - custom software agency",
   focus:       ["Multi-tenant SaaS", "Real-time systems", "AI agents & automation"],
   shipping:    "production apps across fintech, travel & enterprise",
   edu:         "BS Computer Science @ UMT, Lahore",
